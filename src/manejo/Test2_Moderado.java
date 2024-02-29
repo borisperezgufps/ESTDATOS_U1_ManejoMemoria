@@ -11,6 +11,10 @@ public class Test2_Moderado {
 		// Desbloquee las invocaciones una a una y vaya revisando los resultados.
 		
 		// test.lanzarPrueba1();
+		// test.lanzarPrueba2();
+		// test.lanzarPrueba3();
+		// test.lanzarPrueba4();
+		// test.lanzarPrueba5();
 	}
 	
 	private void lanzarPrueba1() {
